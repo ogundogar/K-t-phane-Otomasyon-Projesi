@@ -1,0 +1,15 @@
+Oğuzhan GÜNDOĞAR 192119009 NÖ
+
+kitap silme işlemi Kitap_ID ile yapılıyor
+kitap güncelleme işlemde Kitap_ID  ile oluyor 
+
+kullanıcı silme işlemi kullanıcı _ID ile yapılıyor
+kullanıcı güncelleme işlemde kullanıcı_ID ile oluyor 
+
+Kullanıcı butonu ile kitap takibine gidiliyor 
+Kitap takibi hem kitapları kimelerin aldığını gösteriyor hemde kullanıcı no girildiği zaman kullanıcıya ait işlemleri görüntülüyor
+(Para Cezasınıda buradan konturol ediliyor)
+
+Kitap iade işleminde kullanıcı no girildikten sonra kitap göster butonuna basılacak yoksa kitaplar gözükmüyor(kitapları göster butonuna basılmadan iade butonuna basılmayacaktı ama unutmuşum)
+
+Zedgraph'ı projeye ekledim ama işlemleri yapmaya yetiştiremedim...
