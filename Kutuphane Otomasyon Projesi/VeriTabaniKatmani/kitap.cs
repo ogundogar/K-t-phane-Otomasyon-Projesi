@@ -9,7 +9,7 @@ namespace VeriTabaniKatmani
 {
     public class kitap
     {
-        //veri tabanındaki kitap tablosundaki verileri temsili olarak oluşturduğum proplar(veri tabanı ile ilgili işlemleri buradan halledeceğim)
+        //veri tabanındaki kitap tablosundaki verileri temsili olarak oluşturduğum proplar(veri tabanı ile ilgili işlemleri buradan halledeceğim)aaaaaa
         public int kitap_ID { get; set; }
         public string Kitap_Adı { get; set; }
         public string Yazar_Adı { get; set; }
